@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* [Wireframes](https://docs.google.com/presentation/d/1x4JR0xu23bBGa5J7O-y4GOiMkdTZOJV0mwOlV-wRmBM/edit#slide=id.p)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+* [Trello Board](https://trello.com/b/CDzKJWE4/water-garden-liftoff-project)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+* [KC Water Gardens Repository](https://github.com/LaunchCodeLiftoffProjects/KC-Water-Garden-App)
