@@ -6,39 +6,44 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ## Submission Instructions
 
-### Overview
-This project will be a web application that helps families prepare for children to be at home alone or with a babysitter. It will allow a parent to log in, add household information (family member info such as age, allergies, medications etc.), emergeny and babysitter contact information and allow the parent to create a printable with the household information, emergency contacts and other useful safety info. 
+## Background
 
-I decided to make this project because I was looking for a good way to prepare my daughters to stay home alone occasionally. With the recent school closures and social distancing requirements I feel this resource could be useful to many families that may need to leave their children unsupervised for a period of time. 
+The Water Garden Society of the Greater Kansas City area (WGSGKC) holds an annual tour of water gardens in the area. 
+WGSGKC is a 501(c)3 not-for-profit organization dedicated to the construction, preservation, and appreciation of 
+water gardens throughout the Kansas City metro area.
 
-### Features
+WGSGKC publishes paper tour guides which they sell in local businesses and at local venues. The paper tour guide 
+serves as the 'ticket' for access to the gardens on the tour. The tour guide contains information on each of the 
+water gardens, maps showing recommended routes from one to another, and advertising. The tour proceeds and 
+advertising revenue provide for the vast majority of the society's limited annual operating budget.
 
-* **User Login:** Including authentication and password management to allows access to household specific features such as adding emergency contacts. 
+## Overview 
 
-* **Contacts Page:** Including fields for name, phone number, address, and ability to designate as emergency contact or babysitter. User will have CRUD capabilities for contacts. 
+WGSGKC presently does not have a way of providing the tour guide either online or in a phone app. This project seeks to
+provide a functioning website on which a phone app may be developed and improved upon.
 
-* **Family Members Page:** Including fields for name, DOB, allergies, medications, special instructions/needs, notes. Users will have  CRUD capabilities for family members. 
+## Minimum viable product objectives
 
-* **Printing Page:** Users will have access to a form to select information to include in a PDF. 
+- User Login
+- Database with info on gardens
+-- Owner name, address, description, category features
+- Map with pins showing garden locations
+-- Ability to get directions to pinned location
+- List of information on Gardens
 
-* **Basic Resources:**  Information such as state laws, safety information to go over with kids, advice for deciding if your child is ready to be home alone. Would be accessible without creating a log in. 
+## Technologies
 
-### Technologies
+- Java
+- Spring Boot
+- MySQL
+- Thymeleaf templates
+- Bootstrap
+- Google Maps API
 
-* Java
-* Spring Boot
-* MySQL
-* Thymeleaf templates
-* Bootstrap
-* 3rd party resource for generating PDF
-
-### What I'll Have to Learn
-
-* For printing functionality we will need to either learn printing from HTML & CSS with resources like wkhtmltopdf or puppeteer or use JavaScript with a library such as pdfmake. 
-
-* For getting state laws and other safety information we would likely need to learn to use webcrawler/scrapper tools. 
-
-* Other ideas to expand our learning could be to include functionality for calling a contact through the site, retrieving and mapping emergency services near the house through Google Maps or the ability to upload pictures for contacts or family members.     
+## What the Team Will Need to Learn
+- How to work together on a team to produce a product from concept through demonstration of product
+- How to interact as a team using Github and Trello
+- How to interact with Google maps to display multiple pins and select a pin for directions 
 
 ### Project Tracker
-https://trello.com/b/avyUpuV4/liftoff-project
+https://trello.com/b/CDzKJWE4/water-garden-liftoff-project
