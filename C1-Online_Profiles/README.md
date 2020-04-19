@@ -7,12 +7,11 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[Heather Strodtman GitHub](https://github.com/hstrodtman)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
 
-### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Heather Strodtman LinkedIn](https://www.linkedin.com/in/heather-strodtman/)
 
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+
+> 
